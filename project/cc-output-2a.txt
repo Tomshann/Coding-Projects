@@ -1,3 +1,0 @@
-connected component 1, number of pixels = 3
-connected component 2, number of pixels = 3
-total number of connected components = 2
