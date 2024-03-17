@@ -1,0 +1,3 @@
+gcc -ansi -c coursework.c -o coursework.o
+gcc -ansi -c msString.c -o msString.o
+gcc coursework.o msString.o -o coursework
