@@ -1,0 +1,172 @@
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\NEA graph and tree builder.exe.config
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\NEA graph and tree builder.exe
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\NEA graph and tree builder.pdb
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA_graph_and_tree_builder.frm_menu.resources
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA_graph_and_tree_builder.Properties.Resources.resources
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.csproj.GenerateResource.cache
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.exe
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.pdb
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA_graph_and_tree_builder.frm_graph.resources
+F:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\NEA graph and tree builder.exe.config
+F:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\NEA graph and tree builder.exe
+F:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\NEA graph and tree builder.pdb
+F:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.csprojAssemblyReference.cache
+F:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA_graph_and_tree_builder.frm_menu.resources
+F:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA_graph_and_tree_builder.frm_graph.resources
+F:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA_graph_and_tree_builder.Properties.Resources.resources
+F:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.csproj.GenerateResource.cache
+F:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.csproj.CoreCompileInputs.cache
+F:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.exe
+F:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.pdb
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\NEA graph and tree builder.exe.config
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\NEA graph and tree builder.exe
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\NEA graph and tree builder.pdb
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA_graph_and_tree_builder.frm_menu.resources
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA_graph_and_tree_builder.Properties.Resources.resources
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.csproj.GenerateResource.cache
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.csproj.CoreCompileInputs.cache
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.exe
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.pdb
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA_graph_and_tree_builder.frm_graph.resources
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\NEA graph and tree builder.exe.config
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\NEA graph and tree builder.exe
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\NEA graph and tree builder.pdb
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.csprojAssemblyReference.cache
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA_graph_and_tree_builder.frm_menu.resources
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA_graph_and_tree_builder.frm_graph.resources
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA_graph_and_tree_builder.Properties.Resources.resources
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.csproj.GenerateResource.cache
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.csproj.CoreCompileInputs.cache
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.exe
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.pdb
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\C5.dll
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\DotNetty.Common.dll
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Lucene.Net.dll
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Options.dll
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\PriorityQueue.dll
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Buffers.dll
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Memory.dll
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Numerics.Vectors.dll
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.ValueTuple.dll
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\C5.xml
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\DotNetty.Common.xml
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Lucene.Net.pdb
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Lucene.Net.xml
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Options.xml
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\PriorityQueue.pdb
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\PriorityQueue.xml
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Buffers.xml
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Memory.xml
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Numerics.Vectors.xml
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.ValueTuple.xml
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.csproj.CopyComplete
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\C5.dll
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\DotNetty.Common.dll
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Lucene.Net.dll
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Options.dll
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\PriorityQueue.dll
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Buffers.dll
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Memory.dll
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Numerics.Vectors.dll
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.ValueTuple.dll
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\C5.xml
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\DotNetty.Common.xml
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Lucene.Net.pdb
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Lucene.Net.xml
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Options.xml
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\PriorityQueue.pdb
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\PriorityQueue.xml
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Buffers.xml
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Memory.xml
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Numerics.Vectors.xml
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.ValueTuple.xml
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.csproj.CopyComplete
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\C5.dll
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\DotNetty.Common.dll
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Lucene.Net.dll
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Logging.dll
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Options.dll
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\PriorityQueue.dll
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Buffers.dll
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Memory.dll
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Numerics.Vectors.dll
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.ValueTuple.dll
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\C5.xml
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\DotNetty.Common.xml
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Lucene.Net.pdb
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Lucene.Net.xml
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Logging.xml
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Options.xml
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\Microsoft.Extensions.Primitives.xml
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\PriorityQueue.pdb
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\PriorityQueue.xml
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Buffers.xml
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Memory.xml
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Numerics.Vectors.xml
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\bin\Debug\System.ValueTuple.xml
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.csproj.AssemblyReference.cache
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA_graph_and_tree_builder.Login.resources
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA_graph_and_tree_builder.Login.resources
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA_graph_and_tree_builder.Login.resources
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA_graph_and_tree_builder.Tree.resources
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA_graph_and_tree_builder.Tree.resources
+E:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA_graph_and_tree_builder.Tree.resources
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.csproj.AssemblyReference.cache
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.csproj.SuggestedBindingRedirects.cache
+D:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.csproj.CoreCompileInputs.cache
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.csproj.SuggestedBindingRedirects.cache
+G:\OFFICILA NEA PROJECT#\NEA graph and tree builder\NEA graph and tree builder\obj\Debug\NEA graph and tree builder.csproj.CopyComplete
