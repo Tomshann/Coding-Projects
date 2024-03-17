@@ -1,4 +1,6 @@
-This coursework had me:
+This coursework had me produce within a linux virtual machine:
+
+Setup an apache server
 
 Create a shared navbar across pages
 
