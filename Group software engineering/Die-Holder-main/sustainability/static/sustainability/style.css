@@ -1,0 +1,58 @@
+/* Written by Fedor Morgunov */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #333; /* Dark gray text */
+}
+h1, h2, h3 {
+    color: #007bff; /* Blue headings */
+}
+
+p {
+    line-height: 1.6;
+}
+.jumbotron {
+    background-color: #90BC92; /* Green jumbotron background */
+    color: #fff; /* White text */
+}
+.jumbotron h2 {
+    border-bottom: 2px solid #fff; /* White border under heading */
+    color: #fff; /* White heading */
+}
+.row {
+    margin-top: 20px;
+}
+.col-md-6 {
+    padding: 0 15px;
+}
+.col-md-6 h3 {
+    color: #007bff; /* Red headings */
+}
+.col-md-6 ul > li > ul li {
+    position: relative; /* Position relative for pseudo-element positioning */
+    padding-left: 20px; /* Add left padding for text */
+    margin-bottom: 10px; /* Add margin between list items */
+}
+
+.col-md-6 ul > li > ul li::before {
+    content: ''; /* Empty content for pseudo-element */
+    position: absolute; /* Position absolute for pseudo-element */
+    left: -15px; /* Position from the left */
+    top: 50%; /* Position from the top */
+    transform: translateY(-50%); /* Center vertically */
+    width: 10px; /* Width of the bullet point */
+    height: 10px; /* Height of the bullet point */
+    background-color: #007bff; /* Green color for bullet point */
+    border-radius: 50%; /* Rounded bullet point */
+}
+
+#redemption-message {
+    color: #009601;
+    text-align: center;
+    background-color: #baffba;
+    padding: 20px;
+    margin: 20px auto;
+    border: 1px solid #003c00;
+    border-radius: 5px;
+    max-width: 500px;
+}

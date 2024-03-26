@@ -1,0 +1,109 @@
+<!--Written by Thomas Shannon-->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Redeem Points</title>
+    {% load static %}
+    {% include 'head.html' %}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body onload="getUserLocation()"> <!-- Call the getUserLocation to begin checking if the user is on the streatham campus -->
+{% include 'navbar.html' %}
+<div id="redemption-message"></div>
+<script>
+    // Get the buildingID and actionID from the URL
+    function getUserLocation() {// Get the user's location
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(checkPosition, showError);
+        } else {
+            alert("Geolocation is not supported by this browser.");
+        }
+    }
+
+    function checkPosition(position) {// Check if the user is within the boundaries of the University of Exeter
+        var latitude = position.coords.latitude;
+        var longitude = position.coords.longitude;
+        // Check if the user is within the boundaries of the University of Exeter
+        if (latitude >= 50.729 && latitude <= 50.744 && longitude >= -3.54 && longitude <= -3.5260) {
+            // User is within the boundaries
+            var buildingID = {{buildingID}};
+            var actionID = {{actionID}};
+            redeemPoints(buildingID, actionID); //call the function to redeem the points from the QR code scanned by the user
+
+
+        }else{
+            // User is outside the boundaries
+            alert("You are outside the boundaries of the University of Exeter therefore you cannot redeem points.");
+            window.location.href = "/"; // Redirect to the home page
+        }
+    }
+
+    function showError(error) { //error function for the geolocation library
+        switch (error.code) {
+            case error.PERMISSION_DENIED:
+                alert("User denied the request for Geolocation.");
+                break;
+            case error.POSITION_UNAVAILABLE:
+                alert("Location information is unavailable.");
+                break;
+            case error.TIMEOUT:
+                alert("The request to get user location timed out.");
+                break;
+        }
+    }
+
+    function redeemPoints(buildingID, actionID) {
+        //check if user is authenticated and extract the cookie data
+        fetch('/check-cookie/')
+            .then(response => response.json())
+            .then(data => {
+                if (!data.logged_in) {
+                    alert("You are not logged in, therefore you cannot earn any points please continue to login now:")
+                    window.location.href = '/login'; //redirects the user to the login page if not logged in
+
+                } else {
+                    //send request to DB to retrieve the actions points and the building points and then add the points to the user and the teams building ranking
+                    console.log(buildingID);
+                    console.log(actionID);
+                    jQuery.ajax({
+                        url: `/get-building-and-action-names/${buildingID}/${actionID}/`,
+                        type: 'GET',
+                        success: function (response) {
+                            var buildingName = response.buildingName;
+                            var actionName = response.actionName;
+                            var dateTimeEarned = new Date().toISOString();
+                            var csrftoken = getCookie('csrftoken'); //token used to authorise database write query
+                            // AJAX request to write to the score table
+                            jQuery.ajax({
+                                url: '/write-to-score-table/',
+                                type: 'POST',
+                                headers: {
+                                    'X-CSRFToken': csrftoken
+                                },
+                                data: {
+                                    buildingID: buildingID,
+                                    actionID: actionID,
+                                    dateTimeEarned: dateTimeEarned
+                                },
+                                success: function (response) {
+                                    // Update the dynamic HTML element to display validation that the user has earned the points
+                                    var redemptionMessage = "Congratulations! You have redeemed the action: " + response.actionName + " at the building: " + response.buildingName + " which earned you " + response.pointsValue + " points.";
+                                    $('#redemption-message').text(redemptionMessage);
+                                },
+                                error: function (xhr, status, error) {
+                                    // Handle error response
+                                    console.error('Error writing to score table:', error);
+                                }
+                            });
+                        },
+                    });
+                }
+            })
+    }
+    function getCookie(name) { //function to extract the cookie
+        const cookieValue = document.cookie.match('(^|;)\\s*' + name + '\\s*=\\s*([^;]+)');
+        return cookieValue ? cookieValue.pop() : '';
+    }
+</script>
+</body>
+</html>
